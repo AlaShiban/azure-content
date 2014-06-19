@@ -1,6 +1,6 @@
 <properties pageTitle="How to Use Azure Redis Cache" metaKeywords="" description="Learn how to create a use a cache in Azure Redis Cache" metaCanonical="" services="" documentationCenter="API Management" title="How to Use Azure Redis Cache" authors="sdanie" solutions="" manager="" editor="" />
 
-# How to Use Azure Redis Cache
+# How to Use [WACOM.TITLE]Azure Redis Cache[/WACOM.TITLE]
 
 This guide shows you how to get started using 
 **Azure Redis Cache (Preview)**. The samples are written in C\# code and
