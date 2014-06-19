@@ -1,6 +1,6 @@
 ## <a name="what-is"> </a>What is Blob Storage
 
-Azure Blob storage is a service for storing large amounts of
+[WACOM.INTRO]Azure Blob storage is a service for storing large amounts of
 unstructured data that can be accessed from anywhere in the world via
 HTTP or HTTPS. A single blob can be hundreds of gigabytes in size. 
 
@@ -17,7 +17,7 @@ Common uses of Blob storage include:
 
 You can use Blob storage to expose data publicly to the world or
 privately for internal application storage.
-
+[/WACOM.INTRO]
 ## <a name="concepts"> </a>Concepts
 
 The Blob service contains the following components:
