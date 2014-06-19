@@ -37,7 +37,7 @@ Each tier differs in terms of features and pricing. The features are covered lat
 This guide provides an overview of getting started with Azure Redis Cache. For more detailed information on these features that are beyond the scope of this getting started guide, see [Overview of Azure Redis Cache][].
 
 <a name="getting-started-cache-service"></a>
-## Get Started with Azure Redis Cache
+## [WACOM.SECTION1.TITLE]Get Started with Azure Redis Cache[/WACOM.SECTION1.TITLE]
 
 Getting started with Azure Redis Cache is easy. To get started, you provision and configure a cache. Next, you configure the cache clients so they can access the cache. Once the cache clients are configured, you can begin working with them.
 
