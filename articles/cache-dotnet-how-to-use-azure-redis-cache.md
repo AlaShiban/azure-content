@@ -39,7 +39,7 @@ This guide provides an overview of getting started with Azure Redis Cache. For m
 <a name="getting-started-cache-service"></a>
 ## [WACOM.SECTION1.TITLE]Get Started[/WACOM.SECTION1.TITLE] with Azure Redis Cache
 
-Getting started with Azure Redis Cache is easy. To get started, you provision and configure a cache. Next, you configure the cache clients so they can access the cache. Once the cache clients are configured, you can begin working with them.
+[WACOM.SECTION1.STEP1.CONTENT]Getting started with Azure Redis Cache is easy. To get started, you provision and configure a cache. Next, you configure the cache clients so they can access the cache. Once the cache clients are configured, you can begin working with them.[/WACOM.SECTION1.STEP1.CONTENT]
 
 -	[Create the cache][]
 -	[Configure the cache][]
@@ -114,7 +114,7 @@ The steps in this section describe how to perform common tasks with Cache.
 -   [Store ASP.NET session state in the cache][]
 
 <a name="connect-to-cache"></a>
-## Connect to the cache
+## [WACOM.SECTION1.STEP2.TITLE]Connect to the cache[/WACOM.SECTION1.STEP2.TITLE]
 
 In order to programatically work with a cache, you need a reference to the cache. Add the following to the top of any file from which you want to use the StackExchange.Redis client to access an Azure Redis Cache:
 
