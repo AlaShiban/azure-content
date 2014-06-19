@@ -21,7 +21,7 @@ information on using Azure Redis Cache, refer to the [Next Steps][] section.
 -   [Next Steps][]
 
 <a name="what-is"></a>
-## What is Azure Redis Cache?
+## [WACOM.SECTION1.STEP1.TITLE]What is Azure Redis Cache[/WACOM.SECTION1.STEP1.TITLE]?
 
 [WACOM.INTRO]Microsoft Azure Redis Cache, currently in preview, is based on the popular open source Redis Cache. It gives you access to a secure, dedicated Redis cache, managed by Microsoft. A cache created using Azure Redis Cache is accessible from any application within Microsoft Azure.[/WACOM.INTRO]
 
